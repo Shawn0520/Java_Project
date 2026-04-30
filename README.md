@@ -4,7 +4,7 @@
 22201044 이시현
 
 ## Presentation Video
-(https://youtu.be/YZB3UAXCAuI)
+([https://youtu.be/YZB3UAXCAuI])
 
 ## Project Description
 This project is a Java-based console application designed to help university students easily check their graduation status. 
